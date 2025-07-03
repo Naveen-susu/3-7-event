@@ -1,6 +1,6 @@
 name: 3-7-event
 on:
-  pull request:
+  pull_request:
     types:
       - opened
   workflow_dispatch:    
