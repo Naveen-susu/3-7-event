@@ -1,4 +1,4 @@
-name: Events Demo 1
+name: 3-7-event
 on:
   pull request:
     types:
